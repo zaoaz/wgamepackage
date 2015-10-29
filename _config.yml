@@ -1,0 +1,7 @@
+deploy:  
+
+type: github  
+
+repository: https://github.com/zaoaz/zaoaz.github.io.git  
+
+branch: master
